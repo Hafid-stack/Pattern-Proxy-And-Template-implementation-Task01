@@ -1,8 +1,6 @@
-package enset.ma.templates;
+package enset.ma.templatepackage.templates;
 
-import java.util.Random;
-
-public class MoroccoScore extends Template {
+public class UnitedStateScore extends Template {
     @Override
     protected int helperMethode2(int a, int b) {
         return a*b;

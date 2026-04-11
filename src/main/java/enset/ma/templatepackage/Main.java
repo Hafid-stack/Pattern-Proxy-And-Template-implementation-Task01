@@ -1,8 +1,8 @@
-package enset.ma;
+package enset.ma.templatepackage;
 
-import enset.ma.templates.MoroccoScore;
-import enset.ma.templates.Template;
-import enset.ma.templates.UnitedStateScore;
+import enset.ma.templatepackage.templates.MoroccoScore;
+import enset.ma.templatepackage.templates.Template;
+import enset.ma.templatepackage.templates.UnitedStateScore;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

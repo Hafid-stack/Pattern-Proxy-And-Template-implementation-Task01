@@ -1,4 +1,4 @@
-package enset.ma.templates;
+package enset.ma.templatepackage.templates;
 
 public abstract class Template {
 

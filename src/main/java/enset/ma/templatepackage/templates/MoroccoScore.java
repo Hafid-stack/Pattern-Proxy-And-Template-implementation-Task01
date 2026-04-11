@@ -1,6 +1,6 @@
-package enset.ma.templates;
+package enset.ma.templatepackage.templates;
 
-public class UnitedStateScore extends Template {
+public class MoroccoScore extends Template {
     @Override
     protected int helperMethode2(int a, int b) {
         return a*b;
